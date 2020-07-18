@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --config build-utils/webpack.config.js --env.env=dev",
     "build": "webpack --config build-utils/webpack.config.js --env.env=prod"
   },
-  "author": "",
+  "author": "Ajay Ranga",
   "license": "ISC",
   "devDependencies": {
     "@babel/cli": "^7.10.5",
